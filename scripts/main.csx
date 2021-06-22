@@ -30,7 +30,7 @@ var plantUmlPath = @"C:\PROGRA~1\Inkscape\bin\plantuml.jar";
 
 var inkScapePath = @"C:\Program Files\Inkscape\bin\inkscape.exe";
 
-static string rsvgConvertPath = @"C:\Program Files\Inkscape\bin\rsvg-convert.exe";
+static string rsvgConvertPath = @"C:\ProgramData\chocolatey\lib\rsvg-convert\tools\rsvg-convert.exe";
 
 
 Main();
@@ -342,14 +342,13 @@ public string ConvertToPuml(string pngPath, string pumlFileName)
 
     var entityName = Path.GetFileNameWithoutExtension(pumlFileName);
     var pumlPath = Path.Combine(Directory.GetParent(pngPath).FullName, pumlFileName);
-
     var processInfo = new ProcessStartInfo
     {
         FileName = "java",
         Arguments = $"-jar {plantUmlPath} -encodesprite {format} \"{pngPath}\"",
         RedirectStandardOutput = true,
         UseShellExecute = false,
-        CreateNoWindow = true
+        CreateNoWindow = false
     };
 
     var pumlContent = new StringBuilder();

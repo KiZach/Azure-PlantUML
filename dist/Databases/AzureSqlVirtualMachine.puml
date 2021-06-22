@@ -1,8 +1,0 @@
-sprite $AzureSqlVirtualMachine [70x70/16z] {
-xSo30GGn54NHVAV_XjSSc-yCevlg0CiewK5Y74zt7YD9tmeggCIq5N-AN_xGeMAcmanVSZzrdwGlZGUx_rPKg8fGcUMRHoKNL5Jg-IGLYaagDac5pVJs4Iku
-LtOF0000003W2W
-}
-
-AzureEntityColoring(AzureSqlVirtualMachine)
-!define AzureSqlVirtualMachine(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSqlVirtualMachine, AzureSqlVirtualMachine)
-!define AzureSqlVirtualMachine(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSqlVirtualMachine, AzureSqlVirtualMachine)

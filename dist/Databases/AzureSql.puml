@@ -1,9 +1,0 @@
-sprite $AzureSql [70x70/16z] {
-xT55OWH128NXXnJGzpzmF8oMJMSNljq8Vnd-JYd4B1-OJYIaNP6NIfcmNxhTuGnSKsnHws2iQzObM4JzYBlBcPruufSYVeym9xr0CanHplS9PjGNOCPNoEPM
-zc-6fFbKV25qiCtda_IUPcK-DJmZQu5aUA8jpYUVHs81ZrutrfdW6kVyBaMYhu2x_RZfJUfE-A5DXGb8t2BSLF9R8l5Sd28Tn_5xFuH7_EJkRYf72iOE_QqS
-juAmmpv6id8bi8CYAxSKEqIL0T87-ATAAQMKKju1
-}
-
-AzureEntityColoring(AzureSql)
-!define AzureSql(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSql, AzureSql)
-!define AzureSql(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSql, AzureSql)

@@ -1,9 +1,0 @@
-sprite $AzurePrivateLink [70x70/16z] {
-xT1LeiGW38LX96bEil_zNgcx0EFpFrK_86uHURSPwr_aJaJXUHH-9YM-k-Bh4XGV8d4b07GK8FKz-oCYH0RqC0XJMCLyPD5BeQ8msS82k435UbEnWkOb9Fe-
-VVlsxTitjEKGqfUEoAWYY2136VvDSPO_9fzAC24JcSbFI1qErXN8EWZWMAchjxYX2FCvHVSK5JfKz5XHqlFXcPIwEoisJeVobQ6dLymAA5P0mGEK9Pkks2tt
-OfSKvGAACY5VOIgX497aAxgMN5JM8NisnQufjbH-0G
-}
-
-AzureEntityColoring(AzurePrivateLink)
-!define AzurePrivateLink(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzurePrivateLink, AzurePrivateLink)
-!define AzurePrivateLink(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzurePrivateLink, AzurePrivateLink)

@@ -1,9 +1,0 @@
-sprite $AzureArcMachine [70x70/16z] {
-xTJNOGL1349HnnaXwBzTvspDBixXwHPm_k3eQMFwZQEYFwAqCZzNYKoM9S9MG2rZc0fKbkDyn0tZAC4QEJ-xQaevRrehSPFAvjbD5EEwFGKgExzL85bAg6pS
-AkagL1Lka27HKr9bSOrGWgS4LSQyzZDC9K0j8i9GxDwlj9Ahu2kR_m9JWSeuny0jy_uTyMRK8QMbmFgN-9H_MIjn4un_CPJDVw5eA3l_ab9w2gWo8YaHUmhk
-IceH4xSPYj5VLLff1P-YjD8AqkzGb5QobMm5msi-Lou1
-}
-
-AzureEntityColoring(AzureArcMachine)
-!define AzureArcMachine(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureArcMachine, AzureArcMachine)
-!define AzureArcMachine(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureArcMachine, AzureArcMachine)

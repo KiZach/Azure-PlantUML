@@ -1,9 +1,0 @@
-sprite $AzureSqlStretchDatabase [70x70/16z] {
-xT87SiKm24LHqyJ-Tnn88naNsO_q-4xxzOp0Mdv7RDmtrCoqvr0QcHAEY5K2B-HzZ0rJeMEbiKx0XU0Eg-sd32q4MezOXOx5TYx65h8UQxuGt16xcY0RMSS_
-MY69r2APPP5AH0TNRfbLc_r_YhoqUdT18NrfoVGb-a9bH5DbH3z48MQc25Q4Ciw4GOLJa18H9SyHH7L2MTsw5Q8oLTRbD6esAdlHeXnshh3Oy4bZ72cavkTQ
-AKNa6L25inhZag9ldtGHk586haWPi4BctbRKlQyCxojUmOhx3r4IwIlcpGhfAJIyNI4j9P5sQ-Jkxkxk0G
-}
-
-AzureEntityColoring(AzureSqlStretchDatabase)
-!define AzureSqlStretchDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSqlStretchDatabase, AzureSqlStretchDatabase)
-!define AzureSqlStretchDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSqlStretchDatabase, AzureSqlStretchDatabase)

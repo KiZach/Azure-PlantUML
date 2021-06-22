@@ -1,9 +1,0 @@
-sprite $AzureIoTEdge [70x70/16z] {
-xT05qWCX38RXBqIv_u7hqDckvdVX6MdNNY3uDCCm30CL5X4kxqc8UQDl397wX1Bon6SOIMI-G933FfVF55_6oRsieDniLsXokE_V3FigoSns7PWEHc83UOGn
-Tf1uR66B2nUiOcQD7Q9numKhHDLtAzp_OOx5GezKA1h556bS7AemR2MZ4QqIUmWSdQ3ZYECL1-3HzH5BP2e2eDJESMVrILMZRWh2XTQEqMuaAeeRVsPn8JLL
-2TnHrAO0fUOg1RECjPrrjbCHTEHzUr9JbHwPJ9GYLIcO8hj_L1CL9SnGV_rG9LfZXbZjXQhQgqjQ2Z94vsiQvl8L_P0AVKW5lxfIcF5h3CDm1W
-}
-
-AzureEntityColoring(AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureIoTEdge, AzureIoTEdge)
-!define AzureIoTEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureIoTEdge, AzureIoTEdge)

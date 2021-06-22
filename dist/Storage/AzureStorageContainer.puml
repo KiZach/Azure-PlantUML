@@ -1,8 +1,0 @@
-sprite $AzureStorageContainer [70x70/16z] {
-xSw34KLH34NH6A__Vhzjy-pXHTQ4g0Ubw-AzctzIeAIVIlTkn3VYfN8wtxkHpH6zMQaFLUoxbFuafSyg_ah5Ng64y5GPxbCgz2-KZCtg3iNcpPo-LMcZMJvZ
-z4ObV6ENO57PZYvHTgAzlao1qZ-bG84IprIWGCc32XGeKA2C0G
-}
-
-AzureEntityColoring(AzureStorageContainer)
-!define AzureStorageContainer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorageContainer, AzureStorageContainer)
-!define AzureStorageContainer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorageContainer, AzureStorageContainer)

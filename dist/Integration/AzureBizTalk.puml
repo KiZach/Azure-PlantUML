@@ -1,9 +1,0 @@
-sprite $AzureBizTalk [70x70/16z] {
-xSw75ICX40JHPYoWopzT-VMo3EUt0lYly5UsjxUtjvTIedFCSes7yAI4RNcLeA6_GT6Si-7ZoghXnKk9AGCZ7HG88iggn4nVAunbefSefgZTeeZ2TayZYjfG
-2YWsHa4b_i8sX802yriKKjADOOGKW4Kb8Q2iUc7LPIyKrXVAggUAbBYIhDQ0GfGIQQurfXn-d3i45MWN1RcBaWuz570N1Tv5GUsYK0Sb0HfKnDnToIDAydjQ
-sfNaUSZQ5SrJzer2yvKyItEZmdF5axGfKcPbeF6bYvBcYhKgy9d2pGgLEkHeLi1bXJGf8A_dYg1L6I9EG41vNN_b1
-}
-
-AzureEntityColoring(AzureBizTalk)
-!define AzureBizTalk(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBizTalk, AzureBizTalk)
-!define AzureBizTalk(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBizTalk, AzureBizTalk)

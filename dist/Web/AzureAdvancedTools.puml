@@ -1,9 +1,0 @@
-sprite $AzureAdvancedTools [70x70/16z] {
-xT85aWGm24HHuWBtl-wwz6ggwF79Fy2BW9abyHGdT1X5lKewehALl5H2AhMg_PikbHXJ7SOgASQgl99JCrg9CTQsg9zWHbWOrQiWCcVrAeWyCJu54M0S2Y1F
-Z4C111Y70WWm3gNKvyfxiPJwMdklD8L0MUuOLgjz1igIuHN9d88ChqZc56HuHJAd8CChaWa56Lv1fb6AP4v1XbSaKmeoNvNfKIGp2ZBThI13A50a5EXJKVKh
-RKB-k-WN9T-0Odf1YkarArlPobQsifL7
-}
-
-AzureEntityColoring(AzureAdvancedTools)
-!define AzureAdvancedTools(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureAdvancedTools, AzureAdvancedTools)
-!define AzureAdvancedTools(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureAdvancedTools, AzureAdvancedTools)

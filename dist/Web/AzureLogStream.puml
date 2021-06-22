@@ -1,8 +1,0 @@
-sprite $AzureLogStream [70x70/16z] {
-xS-53GDH3C3GmAVilt35POZaqbqym9Ci9yqfGANSRZgXDDbGZYYTKGnHEg9CIQVNIZ2A8Kf7b8aeaKPkAeOeFQlOBMKYIZ2A8eeXYkSKkwsq5A8JKS9lAQMi
-sqhFAV5BIliPHRQd32CKaPlAA2MXb3AtffJY-lD7w-DAAQN4DfG3
-}
-
-AzureEntityColoring(AzureLogStream)
-!define AzureLogStream(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLogStream, AzureLogStream)
-!define AzureLogStream(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLogStream, AzureLogStream)

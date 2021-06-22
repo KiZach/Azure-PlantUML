@@ -1,9 +1,0 @@
-sprite $AzureWorkspace [70x70/16z] {
-xSy5aeH044JHbipAPkz_u1tSnWU7Zqk_Y79lvlDJS1-qTyNxAHHW2iN4OO7t0-yaveh6HTtFTBVedFzTiKaK1UVJk9X6AJzPkXy-LfJ6MQjOMwt8sXgbhGKR
-HQwjLcBx2et2je-LE9-Y-ygbN4hOdv9sgAJxIbRMKwftNIL_jjlHKxAgYHMvjb2zGsYAFoXiov-fIHHGKoW09r6m8OKRKh1HXMcef6yKs2GAe4aKw1k5Sof_
-PJsbUWUsvSzsTwBRXvKKRaZ1IWhVdkXIi265RoYNSYdPNfH_
-}
-
-AzureEntityColoring(AzureWorkspace)
-!define AzureWorkspace(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureWorkspace, AzureWorkspace)
-!define AzureWorkspace(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureWorkspace, AzureWorkspace)

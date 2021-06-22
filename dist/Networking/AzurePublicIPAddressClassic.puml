@@ -1,9 +1,0 @@
-sprite $AzurePublicIPAddressClassic [70x70/16z] {
-xT9LeiCm34HHqTY9zx_VXogh8PMJ-pU54oJg6wNxHAMzbC8tKLGIiIkvoasKUXEbkudIdob2SsA4IaVpalRVfoiDDgjweMJYbrFwPFB7b5pMrLieDLGsfJnS
-sHIO8Pg-V1uK10g4VXB4K_bdiOufOFgB4Ksb_sH44V8ac63oR50v_8vmENM_P50nscUNK_QBRwmCNn7ZSiPNP1VAuOSIJF3U75Q6dxJvr3Ae-8l5YdX2Vaah
-Gue734pu39H4jr9q9SgcoEieU3sbvhgHmY-lR0fTLJRb6m
-}
-
-AzureEntityColoring(AzurePublicIPAddressClassic)
-!define AzurePublicIPAddressClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzurePublicIPAddressClassic, AzurePublicIPAddressClassic)
-!define AzurePublicIPAddressClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzurePublicIPAddressClassic, AzurePublicIPAddressClassic)

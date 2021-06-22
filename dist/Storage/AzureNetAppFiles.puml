@@ -1,9 +1,0 @@
-sprite $AzureNetAppFiles [70x70/16z] {
-xSy5hWCX481X61_kVz-dI7NTskuVmR-44Cp3xDvHyJTKuYAAoemmA_EIHHHTHB43ARw6eeieugNa7QLkXHTHQ1459ofn1GLcAV8VHocvT7Hxo4mBAAJIg-XM
-Ybmhc2F7ck1DP7NsM0cvQA4cuIQeXx5RWMMKf3NIcwmgeKzfORhDknLuf42_mbifSNM51ojX9oNciFj7iVHOAL5g0VucbmgKiaBzIhv_88K-HA6H2dOf-27A
-gS1G1LPKS465ZwVeVnEK_6wmuXrAt5Kv5H-WX8qLUo7b6m
-}
-
-AzureEntityColoring(AzureNetAppFiles)
-!define AzureNetAppFiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureNetAppFiles, AzureNetAppFiles)
-!define AzureNetAppFiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureNetAppFiles, AzureNetAppFiles)
