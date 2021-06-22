@@ -1,0 +1,10 @@
+sprite $AzureSubnet [70x70/16z] {
+xT87ZiKW34LH0yzj_nkU7oiIJ25oGZHgNFMK8uhzJg19-eeYhYyex8nr1Sw4PQKw7zIYKWw5iAXGA8H5nK8Xh2dA5F6I8gT2M570T8O5fN47doirbCwOHsAt
+bCBK4tTbEm16E5c5U12Xhc2MGq4uMMLurG1L0AS2I5ffmr8-yQY0DQcKlgfeLC99APtxfNGdhs2Y06pf7TMv0ZHBdYwk5A9c6QMYnx-LJx0hfVIbN2fKseLI
+Ooa9XTZQL44i9QMuQvqe75HISPVofo941LbbvZIDfMILY7yhtfUIL4Qd78NIxYjk6CRiK1hookYqRueyK2AjoqeaxNmDruTAf7oknHuhKRmk_8e2VaN1loXR
+sSfMjhALhMnbAry
+}
+
+AzureEntityColoring(AzureSubnet)
+!define AzureSubnet(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSubnet, AzureSubnet)
+!define AzureSubnet(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSubnet, AzureSubnet)

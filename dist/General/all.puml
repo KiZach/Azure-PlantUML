@@ -1,0 +1,32 @@
+sprite $Azure [70x54/16z] {
+fPNjakiW34Fv1klzt_VUtMKQcEB18fpV3P6F8-eOWdVtvEhkgGZkceRcRWc2loZbHaq4UfIRG1a0OZyjllVwYL81SQ_mWayK3m3vbLVy8SzaU24uePFS3prL
+TQSKT6IAXN3kjPFc8zkvruxx1UFCOw_FNY8U74t6O8pNAQTUnqEO2ET9uEUT7spROudICB3hj3xYbtEvEiKrVSQ0h9Ei9WLV-2ErTKd72VPOerGiHAuzSsdG
+uGK7vOq92ebMsvJDCuAJDZmMZ3gfiqSCc3eLVVGCZKQf5VLqMt1JVhGHB7Q107LtTfraynDlRbjtg3cp1NiZRGI8EbKhR2O4H_lBBBPW8LhIBC69keK4s_lA
+SuNr-peLya8Cksq7vNoTjAbJCzkwsxV-0aJhObQ_2cNI3KqNN9We0o-guF25SKYiIfruGYfDe26EmSTS1HlopVFslvF_7G0iLHS06rumpty
+}
+
+AzureEntityColoring(Azure)
+!define Azure(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Azure, Azure)
+!define Azure(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Azure, Azure)
+
+sprite $AzureWorkbook [70x70/16z] {
+xTI7TSKm241HB90jGFlFcxZtGb3wVmDS5pZ0EgtXOGt2IQVAImab50ABKe4XYqArgLOv-FpOc3fH6hk2Frj9NgNMtAOc23VR5VAGUfIOnpmAVVXTLiihWo8k
+fOhlCRDnHiXLWNsXl5VIBrV2Ig3jtoKuB9ue9vCEnmgUAEkjyoWnZwMnCoNDRHKS4RKgU7GPsAPWgsnARGQ5lah1OuLioiaY9vjothb2h5tiKOAE--9HAFyS
+fIhoHH3Q4Oe8kvHvqdw5RH64GWhj57OhWOX4d0eFWnQFCbzCZnBpsFU_2_2WY7D6Y2XIVbzUodXVLEsx6mzldHZQAfJ7lby9HRu8Y4L4rOH879LLhVHJ534h
+rPSeB-KD
+}
+
+AzureEntityColoring(AzureWorkbook)
+!define AzureWorkbook(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureWorkbook, AzureWorkbook)
+!define AzureWorkbook(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureWorkbook, AzureWorkbook)
+
+sprite $AzureWorkflow [70x70/16z] {
+xTHL0eL0241Ha5Btlz_NEM1tt4_Z61DGaPM-Wk0lPgXFowYYes9bs7AAq3SkUYe6lz7SogdW7fHJoU4txgcKkVrKzb9SYoaI8db71SIU5VToUwGOAytnFGBN
+PfLJmIpghMHHWP9nr5lXg56KKs729EgZiBjwwmgrLMW5IiQI52dkUVBeSr9yzGfB6esYyBeKTJKfcjP7aGKKIQCUYlZ6KN0J2bOgwgfIP5sAkPeKVmE03bSO
+89Dd-edh5KpF2CRxRhNo3jtktKav5NEDeYXqLTwVn3-B0gkLAm
+}
+
+AzureEntityColoring(AzureWorkflow)
+!define AzureWorkflow(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureWorkflow, AzureWorkflow)
+!define AzureWorkflow(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureWorkflow, AzureWorkflow)
+

@@ -1,0 +1,10 @@
+sprite $AzureFrontDoorService [70x70/16z] {
+xT9NijqW44NHGsSy__awta2fHI44pcz_KulKkD57XLNLp5Iet2N4supl6EOfmMJgPnaj7cJ-EEJzT09PPuhdvYzbFeWnJdnOcNYKbQTHlr2PVbgR7c8IougS
+CEX6dQaNqUGGpcFlPF8rlNIbOj7Bv7lcqQGuYJn6YcYxaIF74MD5H9kzaA8OATaneUE839GsQsubQBAOK3IQd4UFOln8aj9aU1JdAHvHLl9doKZXh6J6vvMy
+iCIg4jI_KDXbnG6hdNfApJ5yWsA8IKLgBb0tA9LYXyA-Gr7Tel0EHR13OTW6fO3MbG3Woue0AFNJMJqbhwxubYugWk_vaX9u50jABKZCl49uPpULIcZZunv-
+HOc2GrfdbIeuYNr62K6lmg8_4duaXrIr2XFcEZ3ucYCrgHG0iaN1twt8FwnyA1_A5m
+}
+
+AzureEntityColoring(AzureFrontDoorService)
+!define AzureFrontDoorService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFrontDoorService, AzureFrontDoorService)
+!define AzureFrontDoorService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFrontDoorService, AzureFrontDoorService)

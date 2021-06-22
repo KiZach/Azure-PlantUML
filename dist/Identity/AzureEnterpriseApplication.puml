@@ -1,0 +1,10 @@
+sprite $AzureEnterpriseApplication [70x70/16z] {
+xTJLeIin34NH8x3afFz-7rwI1WnXM7-c7HZ09CKvE2Cf4K0bOO3rovy9SqL47XZ0dWYW7XaYMInJHyKHwLagTfQAtq-5BbN1U8Nlg28NgVXKHU-eKivIKKis
+AfQWYH9S2MShSxIsBR0QES0raUMsUjFAkq8NgvHNgtXD7gVYVwrK3j7VoY5HeFnPyHycAzKZaxttRW5W2GF5CrF28FKbLPw8P4MKHfxfukkLFvdjVvSFYMzL
+HFihlbqHtgn8cjchQ6_5zoh2PwbeNwNsLPB1YX3-y6Fqjn8cMXN67xLLyQUhDF_TirJGLUcwwwnLEVPy5srMwcw5y1SV1GtMVgPHqIBR5ILqiysAe1_PHaKn
+WjShYZ5aQnKCAvwOO09RY2WciLhwCRFu3y8T-mq
+}
+
+AzureEntityColoring(AzureEnterpriseApplication)
+!define AzureEnterpriseApplication(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureEnterpriseApplication, AzureEnterpriseApplication)
+!define AzureEnterpriseApplication(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureEnterpriseApplication, AzureEnterpriseApplication)

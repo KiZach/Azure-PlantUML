@@ -1,0 +1,8 @@
+sprite $AzureQueueStorage [70x70/16z] {
+xSp50KKX34HH73Bzz_jTdhipTmT9Zb82g-QMaq8b-Xdfhp8hUpd5hQXGyPTJWj7g4UQLl3ci8iLgFxMTPiMgOWaGKym1YBwOD2cwf0GWbHGB89IKrAbGiKie
+eKcX8iTMg52XGYKULac-61w5OkbrKIYXfCpeQ0eLAbJk
+}
+
+AzureEntityColoring(AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)

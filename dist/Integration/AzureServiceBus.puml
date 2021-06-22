@@ -1,0 +1,11 @@
+sprite $AzureServiceBus [70x70/16z] {
+xSu5aWGX38NXbn1Zxt_V5SPQGZDiKJv_k_1LaENe98P17sLOu1uNLVjDfT0_5HRVPaBp2fkVqac5rBDiIc7FCzS9nRkA6zwCQvVmjndsIyKLx-G3nGl6wL1n
+mYZshSBKEYYAKRPJ22tRAUDXE7whyOZGqlZD8ioZfRY8YlfUuLnnT2iMzuPASC_mYFSLGHPPn8nYI2eHSugdoAmI6JAlX0bX6qMYUAvOR39-200yKsoajFIf
+IAJAhQsYPoMSxaha2lxYdM9DEKHDaLm9EIiQvd7Cc-8T9UIeGB9PmW2csaqsIgr1q6fMpnMmr7woKOBGKm9izI9vAFQ7m7Ab5ewQ5VUKq99srSWLovMGU-Mk
+t2v591-zr6kby6iKS4-n62Z2WDmLz1JtaIBWeHAwGgbbYO8rIlRUkuft55wYm9OeLB-ENIXVQG1aYG9Rei2NAF2U8ZCAT8a2hZs59XH0wWe5OAkPKcQK5l7V
+mhvYaeQi2mLfQvMFyb5OrYiVPICDbHy
+}
+
+AzureEntityColoring(AzureServiceBus)
+!define AzureServiceBus(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)
+!define AzureServiceBus(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)

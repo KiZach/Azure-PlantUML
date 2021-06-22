@@ -1,0 +1,10 @@
+sprite $AzureWebAppForContainers [70x50/16z] {
+xTP9Zi9038NXvwaotl-ydP919OESnD1B_ZsV7hEHHpPFIlWcjcLTrtcU9sDybhHET6K9K9tOzhqho-mrgH2JZzZtVUjRl1AaJcpRCSIn-QLsyMgJpcD5flGc
+fPo8AtB58Nudh1F-UjvJtj-svue368yFIWuHdZrUZ0CfAiioZpa-eoDVAeTGLBoValHJlCc4ZxILbVYBG3q0Cdsc6C1grcicxbILYS7sgFK4rAhAH921U0Gh
+A8veH7gCci8H6MigYa4iAezA2cWW8RsdJARQ59eeZQwLMU1HXZIzL1GaVOIAfagxK3Q6s2XJAFwJl2eCpOKHlrm9KJ5eOiGa_Zz6PG4dHgR4Yy4LGuxaoZZa
+N65AaEHrYL1RFSXDvUmYMuBIJcAcz2AwgNX6IA14II9aJaKnP5MKXYokA8GiBIZ8qzkAuYIvoHZE4xt1AFwjFm
+}
+
+AzureEntityColoring(AzureWebAppForContainers)
+!define AzureWebAppForContainers(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureWebAppForContainers, AzureWebAppForContainers)
+!define AzureWebAppForContainers(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureWebAppForContainers, AzureWebAppForContainers)

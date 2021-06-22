@@ -1,0 +1,9 @@
+sprite $AzureTimeSeriesInsightsEventSource [70x70/16z] {
+xT9LeiD0241HR23iVy5FwoqnI7LkvFEC0ff2FZJbJBHJScc9Ok-du8dIrgJs4-DHWJM9_wORAbtf2ivNMCD4VwCvYaufKgAqfr2uH45g5GgIL2Y8VABmQWL9
+2fJVPYWMTb1mMcbnU6nAmJ32aseKh54GQnIKjrEuGBd3INFSWhixXDafabS0yWf1WI8sH_6mNuNCyueCdbP8tVDAytEbFP6YMojiKIf_VvnGPfPGkj8LEogu
+fbDbVKDNRdTGe4XHM1lNAjy
+}
+
+AzureEntityColoring(AzureTimeSeriesInsightsEventSource)
+!define AzureTimeSeriesInsightsEventSource(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureTimeSeriesInsightsEventSource, AzureTimeSeriesInsightsEventSource)
+!define AzureTimeSeriesInsightsEventSource(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureTimeSeriesInsightsEventSource, AzureTimeSeriesInsightsEventSource)

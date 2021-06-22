@@ -1,0 +1,10 @@
+sprite $AzureDefender [70x70/16z] {
+pTO5SjX044JHXhd_bSDfmUuAQXBRlqZun81VkIYCoQug_Ou0j0j3CuMkd_MKdyPxnTZ7gkJV_LAS7YYkMyLtYggw2cFSA5mfbAkgeTYLdYckqbcfBwNuAokY
+sehnCpMLpEaeMI2A7Yb7Xbz8CNwdZfATgPvI0a3wIl6baaowhvIedXAceIHIxYic0K0j9PUSBSL8BnJh6199wX2NYh1gylLOAlniHNyK09IyFzEwERjpHNKg
+9xUXtDmln2wkb3n896yLLDLSCUcVQQhmeQ8yZ3D5HqKBnUJ5zyZc-3SuA02PSQvFVJefGOWSswZuh6XK3920rmhF2gOAS5HuL30eYf8GFehtY4S5e-BiIfG3
+CbDKKP9KISFCcOA9ubehubJXEmLp1NwZSANWXI8i5JzNi5RqM040LbDXJmdILuHBXRTAaAuYj9KWFKLuh-Yi46qbVOI2_w-mfGJfAmRwYj1NZDHGSAjy1m
+}
+
+AzureEntityColoring(AzureDefender)
+!define AzureDefender(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDefender, AzureDefender)
+!define AzureDefender(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDefender, AzureDefender)

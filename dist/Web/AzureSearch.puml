@@ -1,0 +1,10 @@
+sprite $AzureSearch [70x70/16z] {
+xT1dmfmm38JXKHzo__kcR7SmmNX9_vx_VYq9VvWF7zGpwwiCazb4rAjqcMXahHpkH7KP3f2i3O5XLjiIWxJg_OnKOtAfh1s6VLwxPE8eCpj53P39qxRynmtB
+6e9DujMJ_fLPkwbkDO8zwN5bOia7HvVpgJ8ZtCrCFLwb1wy27PBNr-6cAdZGU5KCurNr8fNXAbY9HfAvNH51dqMh6CahLuoALSML3sbpbQGZ-PGoMp6-iicA
+i16dLEZOOwkA0SMMOeT4moztuFVas319MhFHw6ayNf0qA5Vam6doUWJdn32GopWUl53XMc64y46D7O81kZmebmuxLc4jFOu1yeWebvx0Y5ekKl1EnIyD4yWo
+ln6awDBirb8CKIwbsnLWE4FRgXH6YTUYq9cpj4Jw5U8WdHobPJkZJ5SePrGKX_aP4VZEEZCL6gR4foSw9bbSBE4cU5VY38up2FvJ7xu
+}
+
+AzureEntityColoring(AzureSearch)
+!define AzureSearch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSearch, AzureSearch)
+!define AzureSearch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSearch, AzureSearch)

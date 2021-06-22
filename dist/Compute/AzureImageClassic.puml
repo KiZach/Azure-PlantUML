@@ -1,0 +1,11 @@
+sprite $AzureImageClassic [70x70/16z] {
+nTDRUjiW48RX6URm0zt_VglO9lP8GXM4FldkUJdJO4mj0zDiYLe-h_2vmZgKcRO0qqSRZ0Nf4iNNASRt4-KM8CmiJM6wNn9g0OcsUWhBXQ9xnQE2x-n2mRip
+XV6TKpV1HtAc-2lOe8AtafnQ4iOfNoeuLMB9jkHd2gizItSLyQwnfJofY8MKBvISywcIx90GaHwLd7iAgvsa_4z5lR-R5WOLu6YKEgx0DUm6jSueOJbUQr_9
+RyLsId1A_Oa2tmZDjSughUTc-ah-KBYh88ye_ljAAUMX232fbF9MR4BHW-9B50I5_KmfUg6af-BqMVAzKfneKDbI3mgOPXHYUoj5YBfAQKeAIjZMfXGZcb5Q
+uflYJ7sbt5285K9qNu6t8DIffzHQdqg81vHQUuejKS1B51rMd9a5CUVpBEoRcRK-b6S5kqezBUFms_-_aWSK9qMt748terR2FgRyvpDwP9sBx2coHD4bYb5P
+e62Dmb7XEINLaCmf6XMTKpmgc5DGOsiKcrDAZUaIfUYq4XtpOIMNO_Wb1MiKFpQXq34RL_YsyXS
+}
+
+AzureEntityColoring(AzureImageClassic)
+!define AzureImageClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureImageClassic, AzureImageClassic)
+!define AzureImageClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureImageClassic, AzureImageClassic)

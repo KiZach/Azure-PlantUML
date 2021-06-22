@@ -1,0 +1,9 @@
+sprite $AzureVirtualNetworkPeering [70x70/16z] {
+vTL5aiKm34LHW-ZjVy7zcG83Iwhgm9th16rZ9A6lohLErm1eYi8f2gKeBKMfAKgn54LJ54vHQ43HLSNtaQPAnKZAoqh1K2RBYc8iNLG4WnalA8JXTAvqZ6Sy
+LIeywKGfS6KJHU5geaYAGdw5FqhtAshyKcf0WRwKagDOYg8PIeye9W-baWGKm9uAXnGy5RAVL0qGuP_ebYughTMxCes1MXRYHQLSsu0YfrFQ2PINDABqDOKs
+fFHKHKDAUohDhVItme5xONgUNbG1lmBj3IRrQab00Umn92MkD2u1vJNKxKXAVIjMcLaihFZlfMr8wUcA_hD26r9uGufiID6DAnS
+}
+
+AzureEntityColoring(AzureVirtualNetworkPeering)
+!define AzureVirtualNetworkPeering(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureVirtualNetworkPeering, AzureVirtualNetworkPeering)
+!define AzureVirtualNetworkPeering(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureVirtualNetworkPeering, AzureVirtualNetworkPeering)

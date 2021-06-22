@@ -1,0 +1,8 @@
+sprite $AzureSolutions [70x70/16z] {
+xS-54G9044FHinNwBnXt63ct_0BU96QO44888KH2FXjnSeczpL9Oxd58Xxo-nQdNH3yIiZdAgnI5YYXXd2rM2oXE2YYaMa8v_AcJ4YegK3oKlxdb50lbV-Ch
+K1JAtsHmvGG
+}
+
+AzureEntityColoring(AzureSolutions)
+!define AzureSolutions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSolutions, AzureSolutions)
+!define AzureSolutions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSolutions, AzureSolutions)

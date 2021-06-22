@@ -1,0 +1,11 @@
+sprite $AzureIntune [70x70/16z] {
+xTC5jk0W38LXaf1SOFQ_t-5PJWKgUIx_aVfNWpJjBmgrDWJ1TAaW7Bs9mcibfzknA_IYKBgVkK9leV3RAFpf2ZvOeTwf8dAeYA5dcQuefPJHUMnupdYeb7Ak
+21P9K27qL9X5qUEOOW0oFIO6M4XXHte2WETApZCb0qQU0ahRkYAFAtDbVPtWiAbYG7wzec5b_bqoeCmPu47sfDHQX_z85YT2KX9O6fJdIZB0NX05B8KK1c32
+FL404bDIHizK3JrD0SKP_mbX9R7YCUMqLUY2uX6Bi1yBATuNLtYljDRkAl8cIfEHmdUL9WEbv0kfAzISMIZNgYkbyLgfCKNN2cDOMOJ7vigyyizh_dKNIhwa
+r1D5lf32RwBG9QKjegX2IuK7IhgYvAMYKQKibRfNwXL5sogBA8vue8rIpXInEfgBkb9mfg0EmpsbZ9MoKknD57rRHITAdIbULmgyNwBG9GNVIE4lfCYfKdRA
+Vm
+}
+
+AzureEntityColoring(AzureIntune)
+!define AzureIntune(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureIntune, AzureIntune)
+!define AzureIntune(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureIntune, AzureIntune)

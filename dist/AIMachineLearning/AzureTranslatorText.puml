@@ -1,0 +1,12 @@
+sprite $AzureTranslatorText [70x70/16z] {
+xTK54fum48RXRttf_G_Sy4Dm6DgatcSKU_64B5gvmg83ZXxq7w_yhxYfCBLK65KipDpzlf9dWYghi5dabQjAt5Mqi7XPISQ4pfN2NrRilYA5-QOf8yehXCcq
+5pCJuH5L-FM8c4LKRSJuJhaA4v6sYWii2yQAf6BQ040yhZa-NGdto95WnLcvcKxaGvVrAajCSw7pccEbHcQv5OB2S-Nu-DGagpXK-FoPHcxD5nUNbThXE5Oy
+TtZ-zFbKcPzSwV2fehbdpApkRaGIeqz5rN9cOqLvGX-GtPKAVs0KgTYXWfcfKZFt62dZZgJY7IBSgvKsrgL2YXxCHxjnZPdmZNWuoj8fr3CYtCrAcOdmA6yg
+XGyRXYTwh4Ij46c-hI1F5QuLuhoflF-Wg92NbUS-QNi5HF3sIa7PemBjKe57PZPNo4UAHfQ5eH7Nvz8ckbIuImNvhgAnK9fWGuPXdWoo14FkhxaoFbTGLWyh
+nurOAnSHsAwYk27F5HhioufnPwYxs3bIXB-gsAw28trNeUSA-5K5iQdWmhiATwaWfrsK20qLxLB1C5VGLF4k5PugQAiWkrIaImL3buezLFnrXHugKAy8pzIT
+SUqh
+}
+
+AzureEntityColoring(AzureTranslatorText)
+!define AzureTranslatorText(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureTranslatorText, AzureTranslatorText)
+!define AzureTranslatorText(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureTranslatorText, AzureTranslatorText)

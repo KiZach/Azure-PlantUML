@@ -1,0 +1,11 @@
+sprite $AzureStackPlan [70x70/16z] {
+pTO5ikGm34LHa_GaxN_14sQxdDXJlsypv8J1PI8YjnUG3X-8mlpgCZKhCHsYeUD7q5s9JmhX6D7byuF23mhtKVWoIscBNoWfktHZlOAtIleb1R-j-3zIw4-K
+T5LYJWaV5Dz1uHzNObdXrqfuMDFwMg6huW63Nuk3ueU0S5TaKt1L78djWGWsfaL5RehZIYKL5VUaI57H5cKRJ7mF1JqKpw5T2QpV5LeKCR5snGObJee_fdkl
+b7oBelzDuLLHxQIayjAjKK3ee2GVQvMOLsAJegyLlIiuADH12MAcgW8mRnU9F2RW8QfIo6xf76YiIY6sN5ol05b5PGmrYi3AbHHP5QOkIj1sHJb81mK-jYiY
+tbicdLeKBIh68QVGKbxHGV4-HZOa9i93igNhl2qTbMH3PBASfzCn7hDSksBiQ59OSsVOEiLvrcG98JGfWmDBCT1NnOnd3Su5QLN4EvVCjohZmsAZWdaPTL04
+sgRuIKd6tvJxZckvwXNfebWVXRye_Zf7wA6mlb7-0G
+}
+
+AzureEntityColoring(AzureStackPlan)
+!define AzureStackPlan(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStackPlan, AzureStackPlan)
+!define AzureStackPlan(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStackPlan, AzureStackPlan)

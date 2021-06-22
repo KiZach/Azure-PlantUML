@@ -1,0 +1,138 @@
+sprite $AzureBlobStorage [70x58/16z] {
+fPO7peCh30J7WC7s_U_x2bBu6oQ5KKyPXINxQVc5n5ECfrWyf_646gyWdF5uXSuHZTSefAneBmCUyIhj9jg5Fxtbku1Rl8FSHBiOREdnm6riiVXEPKF9trxq
+fm5Rye_ADNguPOLclaD_QoGlKA747kMNfkS54kh9WkPrabW8BHuCxJD7RSrM3fhMQUmiNfcdSn2mbQOcTQgnioXrMWezbBfYACbj-zPYRlCR4E6mJR__YdQN
+oxJO50Y-iwo0aRYms8hsRF5fIKwq-bBYP5cvI69n9fPQV53Sez2yqX9BA42BpA80b300oHiYWASMVpnKlEk8t3AWnyQIa5YYOd5lKSgznO6HMrIGUU8czM2f
+WAIMXZImC86IMmm0JImE7fqMMlh9KfZutZ8WmkTtBBUiLjUzfJDRA6UBys1SM1eF93zHSBOOB3HDTz2Ebf8yCkLxUrMmC6s8Zfrby9ssivW0_T7jkhC8VCUs
+3N0_Dq3JnI3KLtla-HgeY4UEGSidYdmBJ9fcDC0ESrMJm-Q_kXp7-oYaIBNpoYpn5dwpl1SDxgUgaQ7nEeKKlzdCYtgrtnSMhw6SA1Utd8phdCeJhg9Tj8-Y
+_HS
+}
+
+AzureEntityColoring(AzureBlobStorage)
+!define AzureBlobStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBlobStorage, AzureBlobStorage)
+!define AzureBlobStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBlobStorage, AzureBlobStorage)
+
+sprite $AzureDataBox [70x70/16z] {
+xT17OkWW34LHWQgr__t-GfehZzXCKgxBy814txZVVlkjSgkM1uIiulBSQ7tUAN8Itxl8i-km261AgM-RhmNUvCXKLlFOvIeLxMITncMsWQIRHSSfS2blUNGI
+C0-UgQLlLq7v02CmYsu21i8ZjGfH5HnGZ8W5LnrTHd14v4ilfH44CK4326OgHWOOXiW88ueHp62a3300QGfckEDmQQqKlb3AOjTA-rUi186XXXJzfrXVOQmK
+obnqNCcpZ2WpuvcobAQaFrAOcW8Oe2Wr1J10CVfGClIU8jJAj_o6ufNMIiiLAqUZbUkMS3FTTQOiRaoh4cMdIY5wgXoPHFcfaZ55oPYYfDzLQgxJAKho52NB
+52McAAbJbAnJb1XKegkaJb6oJ55yYf9rYX9JbAnJb23w2m
+}
+
+AzureEntityColoring(AzureDataBox)
+!define AzureDataBox(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataBox, AzureDataBox)
+!define AzureDataBox(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataBox, AzureDataBox)
+
+sprite $AzureDataLakeStorage [70x70/16z] {
+xT25OKDH243HfsZtdxVnxmhnt04E4hwf63sKd5oKxA6Kug7KzShVJ1mDIfF2HaKwwMsTj4LHH0XDQSiwZI9T9MxuJcuK1QYngRGKbHBJJ50Eoc8CIxsRGY-X
+w2CLd5UaKUf-XMzABViLKZy5hOguAEoh58j2BwJWIJbK2awshEWA1H-aY8l2BwJG2obuLQf9KQj2N6j58kCkciEXQBwe7fHYLWXJG3fKAbtQeHmgsYXJBIkS
+qK6f8O9TII64ObKm74lPfjHmRh-YH9HSbF1P2lDD0H-5fzkZ_1HPgV19qOasAIeytNg5NqUHkoa_vHy
+}
+
+AzureEntityColoring(AzureDataLakeStorage)
+!define AzureDataLakeStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataLakeStorage, AzureDataLakeStorage)
+!define AzureDataLakeStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataLakeStorage, AzureDataLakeStorage)
+
+sprite $AzureDiskStorage [70x70/16z] {
+xTTNegGm34HHPrM9sVzsNsxQig2D-Pfq5t28Jk5__uifvrm-opcd65PBkJRnjLhILQ5Om5DfJWW0UHK0UGbb0MQ8u2if9qOIOAvWxz2fv182IdI8M6Ika4Gw
+Gt0P-IoEZyD31FmEEs8KCSeXGjr-xMsRKaQ4J1sIZfxdax2fGxHsIYOT0gziewBQZE8G4UXc3JM8LzAEs43gToHmW51wHPV-jnrHm2XS-Tzs1MeLvIraL5In
+Y91gbQYV4IiAz3C9NLJZp17eTwLNYZxY1GJwYC4a-em0JX5Gkr9mZ8c4YpgKmrZLrPY2Bq6Ngk6uVDsXDMofKY-44YQbnXaHPqRyMb-14ucuiCRcAbtzhphy
+GYt7KwF9GkNGY4tMQiaZMTOhTn5RjKYKUsMZjFDfnNmZLvpU2eSmkPbqYFZ4LMOAFBAYx05F2PX-fIWtQz8hb9jPvIP3gznX6kWKGXPp6pjmsU5NTTXZhZXD
+oAEjAiZh4FTgCAKlPYw1VIqCHT05UN80NJNuAjT2FfbvLupoOaK3BoNMy535d8ZNpfyu5MgEIsVfKfzV1e3KabFuO_lVEm
+}
+
+AzureEntityColoring(AzureDiskStorage)
+!define AzureDiskStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDiskStorage, AzureDiskStorage)
+!define AzureDiskStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDiskStorage, AzureDiskStorage)
+
+sprite $AzureDiskStorageClassic [70x70/16z] {
+xTTNegGm34HHPrM9sVzsNsxQig2D-Pfq5t28Jk5__uifvrm-opcd65PBkJRnjLhILQ5Om5DfJWW0UHK0UGbb0MQ8u2if9qOIOAvWxz2fv182IdI8M6Ika4Gw
+Gt0P-IoEZyD31FmEEs8KCSeXGjr-xMsRKaQ4J1sIZfxdax2fGxHsIYOT0gziewBQZE8G4UXc3JM8LzAEs43gToHmW51wHPV-jnrHm2XS-Tzs1MeLvIraL5In
+Y91gbQYV4IiAz3C9NLJZp17eTwLNYZxY1GJwYC4a-em0JX5Gkr9mZ8c4YpgKmrZLrPY2Bq6Ngk6uVDsXDMofKY-44YQbnXaHPqRyMb-14ucuiCRcAbtzhphy
+GYt7KwF9GkNGY4tMQiaZMTOhTn5RjKYKUsMZjFDfnNmZLvpU2eSmkPbqYFZ4LMOAFBAYx05F2PX-fIWtQz8hb9jPvIP3gznX6kWKGXPp6pjmsU5NTTXZhZXD
+oAEjAiZh4FTgCAKlPYw1VIqCHT05UN80NJNuAjT2FfbvLupoOaK3BoNMy535d8ZNpfyu5MgEIsVfKfzV1e3KabFuO_lVEm
+}
+
+AzureEntityColoring(AzureDiskStorageClassic)
+!define AzureDiskStorageClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDiskStorageClassic, AzureDiskStorageClassic)
+!define AzureDiskStorageClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDiskStorageClassic, AzureDiskStorageClassic)
+
+sprite $AzureFileStorage [70x70/16z] {
+xSpL0SCm34LHesZ_VSlSC2T-zyUeuvnQTFNvoilWVYf8WSAvFieLfVZU-wVILEMhfFS-7av9AojyQ2KVJg7WhugDKuHY6OhmLpfK8KgtyesH2YLsK8pTFRwd
+WnIcU2lnlV2RxwByvluQeD1g2XJTh085IbvFuKe52XIkLA10WGBb3
+}
+
+AzureEntityColoring(AzureFileStorage)
+!define AzureFileStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)
+!define AzureFileStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)
+
+sprite $AzureManagedDisks [70x58/16z] {
+hTTfakCm28PXj00VoFS_xyHfAYbra1LtpVFVhtSjb2griQWg07i0eCAzjrheAwMnMaQ3SA-RWjYAJcHLAWoxe1-uVJIQcjsBmCouJ0tODNma0hyQHMqdIuHE
+JzMsa2Q2d95cI-u-dio0I2IKg2mJuvYvsm8JMouQirMdm59-P8RbkkNyrhMeszUTuRQWmrQWCFSHt6t99RzAG3NOtf3Zy3mHO5lZaD_F33gpMVxyP7fiKBqT
+EGCoNeyVcjXVo8bn_F1xaKY4Me-GXR19113n_8bZVodkaGXUQCxCpmZPyH6O8gSsZiGOFcP7Iec2ZEEFh558ElSReU5coALGfeeVtndeXNArYoZCnwPW4ERU
+iapfygA0kO_q2n1-QpIhB2aDmh_9Ko_qKbWsaaHe5BfifObGwCHoHK-BHAXNLw8mVuFAKg6wQfX_WEIOU17nZ4ckol-eTBsHCPK5o8e2Km8gA-nw_Oc8FiaL
+iDlk8zjIPtTB4lSYplwWK-9c1HuLDut4XttZnERHORuTKVYFrZsOogAo_ys8u6yGdkmIeH4LymdqdTe40jD3KVzWW8gylZSz0J3pJvr-TFyxBVJ2_ZUeDEdm
+swHcCvBwzqmQhJI1xvbofOtI1UOvWtAZ6qhhhq-67owtvFy
+}
+
+AzureEntityColoring(AzureManagedDisks)
+!define AzureManagedDisks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureManagedDisks, AzureManagedDisks)
+!define AzureManagedDisks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureManagedDisks, AzureManagedDisks)
+
+sprite $AzureNetAppFiles [70x70/16z] {
+xSy5hWCX481X61_kVz-dI7NTskuVmR-44Cp3xDvHyJTKuYAAoemmA_EIHHHTHB43ARw6eeieugNa7QLkXHTHQ1459ofn1GLcAV8VHocvT7Hxo4mBAAJIg-XM
+Ybmhc2F7ck1DP7NsM0cvQA4cuIQeXx5RWMMKf3NIcwmgeKzfORhDknLuf42_mbifSNM51ojX9oNciFj7iVHOAL5g0VucbmgKiaBzIhv_88K-HA6H2dOf-27A
+gS1G1LPKS465ZwVeVnEK_6wmuXrAt5Kv5H-WX8qLUo7b6m
+}
+
+AzureEntityColoring(AzureNetAppFiles)
+!define AzureNetAppFiles(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureNetAppFiles, AzureNetAppFiles)
+!define AzureNetAppFiles(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureNetAppFiles, AzureNetAppFiles)
+
+sprite $AzureQueueStorage [70x70/16z] {
+xSp50KKX34HH73Bzz_jTdhipTmT9Zb82g-QMaq8b-Xdfhp8hUpd5hQXGyPTJWj7g4UQLl3ci8iLgFxMTPiMgOWaGKym1YBwOD2cwf0GWbHGB89IKrAbGiKie
+eKcX8iTMg52XGYKULac-61w5OkbrKIYXfCpeQ0eLAbJk
+}
+
+AzureEntityColoring(AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)
+!define AzureQueueStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureQueueStorage, AzureQueueStorage)
+
+sprite $AzureStorage [70x70/16z] {
+xSpL0OH0303HU0xwx_VSFKiMd_zv06QGa7azPLLyL8fAX-YiT4jI51sHOZKKIr7KotfK94NX4Iaqg8A92fy3BalueE0vmB9K3WgTGg2YdXHCKGY3dJzvL23O
+EuKuHP7PALgcqFWKFaKMLauVvoli4elVAXkFfIcAlLMQGHJFKNYk2jqhqasHSsrOaKFyf3J1tYl1SfHsVegyKRHKmPagUYwiwB6gogh061JxfQpA3W
+}
+
+AzureEntityColoring(AzureStorage)
+!define AzureStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorage, AzureStorage)
+!define AzureStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorage, AzureStorage)
+
+sprite $AzureStorageClassic [70x70/16z] {
+xSo73GCX3010Tp_x3vpUEs0a1_qDS01BWG3pBMN21KCMjmvyMlfOoE8Xov9eAICM3raiPD6GHK8MRbnmm49TYnqfMXDL2LZ4BSzYzmlNaTSBrC542mnSg77H
+UHRDlZ1MUhrGfTCYQHVvvqNoBPntgSGXYqoxq6oBfbZuTl6ZXiNtWXPClwmBl5tMPGi
+}
+
+AzureEntityColoring(AzureStorageClassic)
+!define AzureStorageClassic(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorageClassic, AzureStorageClassic)
+!define AzureStorageClassic(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorageClassic, AzureStorageClassic)
+
+sprite $AzureStorageContainer [70x70/16z] {
+xSw34KLH34NH6A__Vhzjy-pXHTQ4g0Ubw-AzctzIeAIVIlTkn3VYfN8wtxkHpH6zMQaFLUoxbFuafSyg_ah5Ng64y5GPxbCgz2-KZCtg3iNcpPo-LMcZMJvZ
+z4ObV6ENO57PZYvHTgAzlao1qZ-bG84IprIWGCc32XGeKA2C0G
+}
+
+AzureEntityColoring(AzureStorageContainer)
+!define AzureStorageContainer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorageContainer, AzureStorageContainer)
+!define AzureStorageContainer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorageContainer, AzureStorageContainer)
+
+sprite $AzureStorSimple [70x70/16z] {
+xTO7ZgKm381XbxWDzx_l0feNlnQHYL7V_m0V8Xt-tlyGQGzXDIHklJM6sckqO71xZ_ziOClMVwbzYmhA-9SGXY4SaQZQdX_PdXurHeGUqX0X5JMFKHPXsWWF
+X1cE-0rewf6Db3Db_lt39Ycm972fk4eVfxOzAJ6LcwYSmg-2laqhYQY-ABfjyqfc3-saR5jJz5dKafBz_1ILb0mhIcPSKZAbYf9vcrCyt5Q_aLcOHpaDBHFC
+4XB5681kKS1lKQIiqAxmBGhf7GhQ7GfuZFEzEINEJAJn7X4XmdDJ2ZBX7WoQLI1RL_XnScDH-SsvecHyYnAjgYHJLvAPLx0hcToYXAmf5g_fagBnbgmeBTxJ
+1OLZn5mhsXMC4NEjM5V0nypy7u74bsnEiQvmZ9XhHRe2CMAk5Kf5usi-eM0gFFhf2KMx0Z78yL9fgSYOkL080nuAnfYvKC2x0ZfchXGzbTF2M8o0Km5TLl19
+mS93AXMGMnJmMnIgAeL_QkyAM5aP3yq_
+}
+
+AzureEntityColoring(AzureStorSimple)
+!define AzureStorSimple(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorSimple, AzureStorSimple)
+!define AzureStorSimple(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorSimple, AzureStorSimple)
+

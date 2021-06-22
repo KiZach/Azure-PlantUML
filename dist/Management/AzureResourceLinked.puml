@@ -1,0 +1,9 @@
+sprite $AzureResourceLinked [70x70/16z] {
+xTK5OiD030NHbRJG-r-ueC2KsxzAkHEExMUssvlDQQsShRNy0agPYLIApEYfr9YnK61a10L6Hr1WT0G5HaTGO7G41KP7K61q10L6Gr1q1WH5Pq1GT0O4HMT0
+K7G614LYG9vNvlrSG5APsxiOnIAYv_TXAe8ITusLpT2HUQTOAltqrvk8MSOVdlz6rW95AvMMY9yMT3xCtwjO8hQUpzzMZBMTQvD1yLwu1xWVFzb1EqeSFw-E
+-OuIZvLbMpTfb7rcefoQbMMXeIj-LgZBYg5GQBlvdNdsh64XzX9YNbNoRwihhQxOTr4u3-kANq2nPAfAyo1P8QifT1d5VvrY_yhp_HNbN_5VfzWFLMu
+}
+
+AzureEntityColoring(AzureResourceLinked)
+!define AzureResourceLinked(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureResourceLinked, AzureResourceLinked)
+!define AzureResourceLinked(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureResourceLinked, AzureResourceLinked)

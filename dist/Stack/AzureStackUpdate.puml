@@ -1,0 +1,10 @@
+sprite $AzureStackUpdate [70x70/16z] {
+xT97kkL024DXa0Ir_nM_7730jnqw-uoh_e4-R6SE6Eri3lWb2bQLM-6gSYlwYSgjnB-bu4SKTp-hG6_HpoZKPzXKSajHYKSLwYN2NuA4LY6t5DMlBXnI8BcL
+wFiLIh9IopZ8O3-iBpuqo4ij0blK8lJrIRW3QHZ9RGVICBILeCYCoMkG3TF471-5LwHdk4HYbEW5wHXeWUIOfFTD6gRRDiOicfC4UyONLuinBvqleMNU5Lej
+bWgBiif04yQLAqYhq8iY4Mz5VbMGeZICkY8_41MbOzH7Ha4wXVv0CVCG7od48yNuNR3BzoWjWuUAvLV75C4CvGXtAJM3vNc5i75U4NY5mh5JYIo5tekzYdAK
+tfdCNSgIoOZ8SK2971ibrJHVTuC9nxPIYrnDCDjI-c2rlqJXNwlSogqy0m
+}
+
+AzureEntityColoring(AzureStackUpdate)
+!define AzureStackUpdate(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStackUpdate, AzureStackUpdate)
+!define AzureStackUpdate(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStackUpdate, AzureStackUpdate)

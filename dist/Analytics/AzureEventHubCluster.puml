@@ -1,0 +1,10 @@
+sprite $AzureEventHubCluster [70x70/16z] {
+vTE5bSD034LHqPUI_XjUqp6ZPfPVm7pDT1aeqJzGd9PnJc5Q95-Zy1r53tOMvwqLtbNY8lbInQqFjWvt5OwmmmkdMyNgAF9vYeXeEp0pR1KLqriAaGvxzTs5
+TvIMa6gAbIdMAzAaTnJeWSBK_xPxuVjAbwAf7xCfc3biaPyf5asttl7FLNYXH862CaM9v0SfMgem6tEn4cqsL_Xh5EDP8joKK1ohp2eekhsK_5MAyIp0AAKe
+pJfIv5iKv1HNBb6ce5oYJBbnYJ85vKD5uq7m0yNYMQwSKTmtSxOABXN0VKCbb24pU5Pv1IO703Ddb7TWdX2bb3UMQL8XmRojuhSK8YrJebNQj4XvlPtwnF9A
+jCfGWH8BHLbhA4Gv9M1302oj1AOA59yf8babe5sjeffMWWkkxfHNKG9LbD0gIaYdMA7YLPH05IMqLpu
+}
+
+AzureEntityColoring(AzureEventHubCluster)
+!define AzureEventHubCluster(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureEventHubCluster, AzureEventHubCluster)
+!define AzureEventHubCluster(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureEventHubCluster, AzureEventHubCluster)

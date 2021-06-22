@@ -1,0 +1,11 @@
+sprite $AzureDNSServer [70x70/16z] {
+xTG7Zk0W38NXvnXiiD_zpxl2OgVt6aNpgwPzaMX093xToHJY2yfJAN8QXHoVgMtbSuqlKUQtACFUamUhkAy4tfUoollAnFiwpgVmlXA2TzMUL1ZpNILPoLO-
+qScKuqIA_YbFrhvH-LFwbokn3umvWoIJcMGrPtLx9-V_yg4o05iO82JJwNqhXYhO1bUEc-P39G7ThmGvWdhS6pvXod93SPFaGuLQDnM0ayOihKe1q3WXv13S
+rlX8SM0ozqFZM5eLCuesO3RSJPgDfDrL0h156OJXx82oCgC1mGFQy3ZLkyfwYueZWV2W04YkL1bT6F2SU3RkEYG1um7lhFV77lRCTCuWKrvL9j21O4Vhj9lH
+ywLbxqMsLvNwaPRcsLHRC-kzkxirrID9Shogr8-SJ02IDyTxbhk7EbzNnXvG1Hehsr_BuYjzLKdtKGFa7gp2VPRldkH-9ayhxqnFfBJBAVroYbrEySifutBA
+l9mI9rV-0G
+}
+
+AzureEntityColoring(AzureDNSServer)
+!define AzureDNSServer(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDNSServer, AzureDNSServer)
+!define AzureDNSServer(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDNSServer, AzureDNSServer)

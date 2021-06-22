@@ -1,0 +1,9 @@
+sprite $AzureServiceEndpoint [70x70/16z] {
+xTT7TWGX34NHBvHW_mjswDmSAeYIiz-S2sWcd2BnKsRcrMqGrYiiQW_v2D4DnFQa22ewW_IAwWo2RKGGL5Hr2a67w1I23j4f164ahWYYYfwQGn13ueeWhEY3
+uczrI5pnKuf82KYlT4XGqKvH92Y6Q8En6AOKVLACZYlM8NEAzWWnOxC7X31AMwE8WWo5KnHAKN14kIASefGK1IiAxLKaHQ4CfI11OIGeWWH5aA5WIoax5CfG
+2X8KGO8Yo53mUnGgXLaagfpEYUZpsh5FeS8igkPUxrbGuJh80qgfhRbi8BQ5jFVg80iejPqwfb2xz0qKUCQFG3L30NGWn1MWf2ZyWSg_8X-dU9Boh_YWP-KL
+}
+
+AzureEntityColoring(AzureServiceEndpoint)
+!define AzureServiceEndpoint(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceEndpoint, AzureServiceEndpoint)
+!define AzureServiceEndpoint(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceEndpoint, AzureServiceEndpoint)

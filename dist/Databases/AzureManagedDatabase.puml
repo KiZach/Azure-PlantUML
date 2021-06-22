@@ -1,0 +1,10 @@
+sprite $AzureManagedDatabase [70x70/16z] {
+xTE5OSGm341HHUpz1oxwGd90Jhdv0poZu5ntmx9-89OM48cuHaI8vw67GDoAy0nK2Tw93fbWDCFg990iKnKwLkXOGH5LjKSQ4Y7SKOZ5l9pDJOK9rrZfpLGc
+hLpCLMXOAdTtTtTtRcRkrmWTyql6LSTqbVKXrndNM9xHPXtdkRuPtIZpqNGpJrwhy6kTHpAjCRmMc1nI5UmvakjA0Ucu6mqAvz_ReZ9ecj6eW6GPRocS_NtM
+KWPjPKa5j5bMmUGe-5gfSKwnMGnJQA592JMLDbEsywZKAA4Kcn9O98S7clAfbJBueb9ECcO6KuG06f5ZnXUAp9IIoUUA0sW9PPNoCSe0B8iwbLNVgC17A1QK
+Pm
+}
+
+AzureEntityColoring(AzureManagedDatabase)
+!define AzureManagedDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureManagedDatabase, AzureManagedDatabase)
+!define AzureManagedDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureManagedDatabase, AzureManagedDatabase)

@@ -1,0 +1,10 @@
+sprite $AzureDatabaseForPostgreSQL [70x70/16z] {
+xTK5qfv048JXxl6v_u4Z-yS-Mq9DF3mb-8i3phkG6A6eVJH8Y2sZYfgDAxHbMB5XXH-0uyfY4P6PjMJY9F78wdkd0jatJbSqgfTHfHzSbQjoLShLFD9jKZ7Y
+o755WNd5CAzKASzNgZBSJ5M4n0TccADWZg6OypQCIOTYYjM95oWY1BFUT5U-tHSHuePM9B5bnwyR99lOOXrLwDqbsBEZYaHs1_ROZnwN5mx4lgAz2FPiN_5U
+qeJOa7qbRbvj0b0ymNqbRvO80NyecAfcrQPoiyoRW86uvL--XQI8w0Tc_gBYH1FKXmfpyp6yhGG1D244F-yL5255j4gnaxsijLP50M8XtofgfYxOYQ-_4L6D
+LNd4SFlAb_ih5_myIhn2YgfvHDRJPxSKEAey5c_l4PsugKpP7r-vAZgeN9LVSu-aLcLCZS1SUpd6EhhmdTu3
+}
+
+AzureEntityColoring(AzureDatabaseForPostgreSQL)
+!define AzureDatabaseForPostgreSQL(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDatabaseForPostgreSQL, AzureDatabaseForPostgreSQL)
+!define AzureDatabaseForPostgreSQL(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDatabaseForPostgreSQL, AzureDatabaseForPostgreSQL)

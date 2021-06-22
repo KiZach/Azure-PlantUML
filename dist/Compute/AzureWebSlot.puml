@@ -1,0 +1,9 @@
+sprite $AzureWebSlot [70x70/16z] {
+xT85hkKm38NXc8xRsV-2fymSF-dIBmnznVIA_Vf5pAAgEOAeTJqdh2fFOQlALCWiNr7BLyYmxYuYGBuY250O0GfX9pjefHWkP2VtAOXG4A5mY68X2Y8KzclP
+OZnN94GnlnOE5Py4O3fQ3QSjb7z3LWsBSIZLSC9GMlH5oa-X48L350bHzECKUo45KaLt5GMWKwMiibjATmglhE255DzLVWh6O_fSaU5KoTNGnc6gqW51sbEA
+T3dZ48N-Mg7B6LFLKl7dySifNEVFamw8IEkygDFBkVMdN9l6Brscos7uNpnrFL1ygVm7
+}
+
+AzureEntityColoring(AzureWebSlot)
+!define AzureWebSlot(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureWebSlot, AzureWebSlot)
+!define AzureWebSlot(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureWebSlot, AzureWebSlot)

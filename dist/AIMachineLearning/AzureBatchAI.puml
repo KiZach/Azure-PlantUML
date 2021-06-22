@@ -1,0 +1,9 @@
+sprite $AzureBatchAI [70x70/16z] {
+xTG5Wi8m40NGySxzBxnkMNuKXtwqzkAXJkpzYwEJdX929EPkHVGdyf4HfL_M7IbyGcMxkB8hkv8teSYkd6X_mU7tzqs4lxvH69v3aM0YItmDAJ8xHeOKcrK2
+AK4WMbSKAr9NKAVXMHGnfKXM50KrL7wZO3yoOoMOve8LFuaIbrMue_3865c-n-kA3IYQ7ucwub2HSgRCAdQeS9v2sKwXH9v0iVo93oloRuma9vHo2zIYKwOK
+d5nIkFWXNbFi_LWtXShi6Ds4ukTGf51snSwds97AhaIfQ5Vnfr9yITcLLm
+}
+
+AzureEntityColoring(AzureBatchAI)
+!define AzureBatchAI(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBatchAI, AzureBatchAI)
+!define AzureBatchAI(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBatchAI, AzureBatchAI)

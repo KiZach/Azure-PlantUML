@@ -1,0 +1,11 @@
+sprite $AzureApplicationGateway [70x70/16z] {
+xT7PiXiX38HXr6hXvVqVE6FwGgIAIGsMiv__nli7ajlV56_ToaZSZb17n1GHXIgYK4KKgeX25L4e80KcaVlHsqo8U3pLFPbjP1YFnqFtsMQY7qM_zPZQPU2E
+8qRMjtS3bKg_Qpax37n4zh6NxB5n6wUAS3C8slodX4YnTcJt--EHbxd6255jvDeChL6AcAk8jn66CYx6tli5HiZgBjHJaj6JkO34-9uTmej1QqOgIRY2C09c
+8AM4E-dJfsBEa2my8WW_4ZIKhEC2GfU2CSou3lXzE4Cy4L2AwTD9SQUoavl09oNlue0p5N39E6T5WL88S2YOb1NZN2haIz5AW9KY9f6rGdyfvAcIZFDSWRvn
+fYG3hXM_g8XXLO46cW9F5V-XOal5bKc155U0pxMHBHHlsrbTIMPMs2eCCdkRoKaAGnMLP5fJBcMVAIjYoegOiYAch8ZngY9cLkhXGufzHC4VCD6VfzWVfBJF
+A2QbpBG_kQ---WO
+}
+
+AzureEntityColoring(AzureApplicationGateway)
+!define AzureApplicationGateway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)
+!define AzureApplicationGateway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureApplicationGateway, AzureApplicationGateway)

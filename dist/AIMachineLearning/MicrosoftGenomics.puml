@@ -1,0 +1,11 @@
+sprite $MicrosoftGenomics [35x70/16z] {
+fLI9eWGX2CfG__-Ftz5iKUFmJlOkLh6KXamqXR69_40NZFwvYVXy3q7niJaeAIWvu2bWhTdu4eeIG-mdqAzOTWVpcAKKWxaLLpGf5ejhXH6CNvKEkkU0CoM1
+jZ5oHYovRApnQep_PorCSt32I21ZuyGLj4TXJ4wd2EQjCDzBroUkGp07LUWGRge7loPOLOcpwpjL7YkzCa9S4HcesdkveHfuBCQMn1PG9Y6TxD9XMmoF7PC_
+bPYULmDh4IUE445OwpOi7GL9nCWimNegSk1x2meNSdaB3jc8opICDseuuVDKWySReXHBne4JD0CsDefKhiR3yFYvPgNxBSvcPfpEpYLZvu0XoDZWRZG7ETWa
+C6q5_cylgTn3v-XTEDHkd7XCSXed7XXGVXuK8Gp65-F28V_cOjJpx1YnOUVO2W8r03w_X1oZN2QYvyXUr7w7BJLmvGJh1FqbfO1-uXGhdI54b_BSlSjwfXXh
+1ZG90woz0m
+}
+
+AzureEntityColoring(MicrosoftGenomics)
+!define MicrosoftGenomics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, MicrosoftGenomics, MicrosoftGenomics)
+!define MicrosoftGenomics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, MicrosoftGenomics, MicrosoftGenomics)

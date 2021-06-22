@@ -1,0 +1,10 @@
+sprite $AzureStreamAnalyticsJob [70x70/16z] {
+xTC55eD038JXJJAptF_4bRpYC7NdVrBbWxNIXoYtThkoASOi7gBmCOhVfVX9mKCKsksA1yYb-VKh50U2RVh_6L3c1H1EBiql64AP8iMvEAJymhJI8Z2baF1p
+2WwvLX1QQH6bv1TIiKIAkL9cY04p98fMGYk9v1SMGYbQyKHu2CvmB9saH9NI8moZvwyBIbbJh1oA5ccLBAPAI0KPAziHBSz_TQK4Cg8lh3-Q4Mub5GWbi9Zd
+V-efCfpLrXGFhEMzab0fPYiAL5Eba65pnQ3pseUyA4YVA8d8E54Imi0HX52oU8ZYWxUFK1ptAcOUk4U9GDiT2l02XLrAWOor6LP7nObmrAgDjJh58aLo5Mbq
+z5BQ0RAf2j7LfbKExwX7eqi8g4qwsj1L97E4skeYeHEtlbAvtn5pSOkICtAh9Ax-sBQsjhQszW
+}
+
+AzureEntityColoring(AzureStreamAnalyticsJob)
+!define AzureStreamAnalyticsJob(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStreamAnalyticsJob, AzureStreamAnalyticsJob)
+!define AzureStreamAnalyticsJob(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStreamAnalyticsJob, AzureStreamAnalyticsJob)

@@ -1,0 +1,23 @@
+sprite $AzureDataBoxEdge [70x70/16z] {
+xTBNRiCm38NXmoKgx__06G9OomiQtQs_w-W7SMByJ9SB4Tv7D7cHJ2PRRBvYZ65alcE4CUg712FCJnZw9JzbCvVCPzGhizkmDn0wU8kXJRo91lwV-MDOKsxp
+naUV-p3E6xcRde-Q-ncEMHwHfYCr5yAUvc6ksn3djlR6_cgd5n-xXx3GxAR1Xa8CX6ZCT2WYebkMktbCgs4gezk8o4m6JrH507sJXew9GgcKmvWBjRKKV2C1
+76TGgO0P4pGg41LCeiaA5Vma8iHrXPUVBClKM-Idsvx9KINI-TP78y9r1IH3bUgKg5IZUsU5FgAISLOXwQyOH0i6m569Jc-5m4i5KGbadQU0gWenDYZrhF8K
+bHFSx12UU5iPl4TGD2gDVU8XHMMYuuJ0fTAY1mr6HLG9RPehddPlg57fH8HlThbS7W
+}
+
+AzureEntityColoring(AzureDataBoxEdge)
+!define AzureDataBoxEdge(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataBoxEdge, AzureDataBoxEdge)
+!define AzureDataBoxEdge(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataBoxEdge, AzureDataBoxEdge)
+
+sprite $AzureMigrate [70x70/16z] {
+xTRL0k9038NXwCbqt_zzrx1aI1cwBlrly8-3GtzLPsTdB6fcAlmTX25kmGxVlwYAi4VjWAEEHr43lsaWrJXAwoJjyDxHOqCCFICBn30fFNFeAL4aPgICNYHu
+Kmcc_Hmr8I8xEaOnnLb16KExOSwoKiSmjR4wEaPxHLi2VPOKB9uOmswseu2fneuNML9gpXb1Kwl4cF8zn87-ZDxX_frcdP8RDMcVMCMgs7AZUJoDuWi6pHG8
+fcorHeWmHyoyKZ3g6C7SqnEkQDfoP9YpMH70pUp5675qJ5MIt8ynD5cz1IyLHvVbivq1VLP6Ldf66yNs5JDqCQTXQqKKNP9keplAXtiRyOxY1nGdycWIIyVv
+yhkiKTeUKvX8eibZgPGfQKm_9PWZf2XrIj2NEEQKiaAjSaS6NP8dPAriUSabdP6iW2Wh5TcC7ab1MeMpCYx6C2en4b8LloYQ59ClCJqd5yUeKVoBelhMFrKn
+t7_2hVuSkv12nnW1Orh6zoFt7XSnqv_UsTdP9m
+}
+
+AzureEntityColoring(AzureMigrate)
+!define AzureMigrate(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureMigrate, AzureMigrate)
+!define AzureMigrate(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureMigrate, AzureMigrate)
+

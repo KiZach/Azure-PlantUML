@@ -1,0 +1,9 @@
+sprite $AzureSqlDatabase [70x70/16z] {
+xTM55i8m38LX8irDsVk_Bs78N0zElwEpVzuULg2XmsRqY0gDUao5jXpFBCAxAyIYTxGhmzh5EogYZRqNGweFg6XZrorH6ByKbKsLe6O6m6i8TXOXfePCPZWP
+FCzn9A70rmUb_G3oMX2vFcv1Kn3pl9eZtL-QLAtAoiCTPadlY51jhZXwbMXihpIrIygglPK6x16LS3m-ebANd1zG2QxqW4g0Fg8IZAFo0CYlKBYZvfxtW2KL
+fWRRUMrx9IjoJOauZn0QqOvUfTaAhQKFgH0UKk67LEWwrMeZtT1VAegYA8gYE04
+}
+
+AzureEntityColoring(AzureSqlDatabase)
+!define AzureSqlDatabase(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureSqlDatabase, AzureSqlDatabase)
+!define AzureSqlDatabase(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureSqlDatabase, AzureSqlDatabase)

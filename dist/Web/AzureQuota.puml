@@ -1,0 +1,11 @@
+sprite $AzureQuota [70x70/16z] {
+hTO7bkiW38LX0QhNi__jlXPEdcTaSeoIVm6V2vM-DMpGASVDw1G7e7GgzfKH013lAOf7xGsb1sPSLmQUMLbX_2zE2dQKWNEze2G4Kb9Qu5jMKXm_gYY2d_Lz
+fI4b-ueXvJHhUAVFAECZYdv4YQbqtEt0HMrN-RfYU5kvOcnRkMJgIbu4OqEvOgIWPCOhIcOgIcR6NuLDTvJCw4CXsr0o4rCXsr0oqwP2jg4aHdWG__iktr0I
+0uJ-KzgMaXcLlufkAPcHeQhCh2hY6yeNpZ4_VhD58or_4Gl0H0E8PeuN7SSnXUC0akBp_X7U4vEaAMIbqVmMRXsbP8WybsIt9YZaPF--PohXv5XbM4O69SLK
+0EzOrR1i6A2OCG1dB2B1AWstndWK062-KjPV6yP40-U2JhL7_Kz4BR38HIATLAiw5gaYfKk6SPqfTfY1wwuKo2vZU3RkC3rmaUDPmns65BauA_UO4VTlj4ph
+9Eug6FGYzhMomL1Z2rmqi63Mqc1HLM57QiciKxog5vGwOtXPj89IPGmrPgtK6KE1gIZmWb9X30McgC2gofgfA_YCyXi
+}
+
+AzureEntityColoring(AzureQuota)
+!define AzureQuota(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureQuota, AzureQuota)
+!define AzureQuota(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureQuota, AzureQuota)
