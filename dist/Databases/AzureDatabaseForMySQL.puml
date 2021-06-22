@@ -1,0 +1,11 @@
+sprite $AzureDatabaseForMySQL [70x70/16z] {
+xTXLejim443HOT7-zrl3n0oIoksxFy4vGIFy7U6XZldRsWaQOwQf1WWzOfPJWrS3BOJSzv5U42TUdIU4f29dxXMHxsEmGwdxLbJLfbHbs_qlHLj6rK9C-s8m
+jpvFlL3IyZkh0rT5-nXeLqfEw966EoGeeQVbKYcPS8day95Yy7VXnNAZb188zz4S7jDIxfInnFWQXLBk5Iy9FGZinAFYvI1CntcnLBmwnQsXD9JdYjUXU3zF
+-LA-b2m8P8kYY2IfMI4OCrS4ngXLoJ25yqI4kTYdW9On-Ku5qtW3knLFIYa6Yy94lduo7j8QnTyChSfqTL8KXhX2mVdDHB_UgUWyAXFMhTWqIgF5rgz4-1I-
+Grc-LyfRXIo4mFMAmPojobAzaj4NX8-YFOg_6LkKp3rA2GIeULMooPnMA2MF-RMIbr8SIcFJgFIjwmnssOzGCFy01LFfKm8lYUK_QalofNmfeLd12uLQ5OEh
+k4s9S1sb1iNWDisLIYHuIkAxaWtXBPIG7vHa19KXMqpveAGObA0zyXCep4m8Fxrl
+}
+
+AzureEntityColoring(AzureDatabaseForMySQL)
+!define AzureDatabaseForMySQL(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDatabaseForMySQL, AzureDatabaseForMySQL)
+!define AzureDatabaseForMySQL(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDatabaseForMySQL, AzureDatabaseForMySQL)

@@ -1,0 +1,8 @@
+sprite $AzureStorage [70x70/16z] {
+xTA5aKH128JXXh6wbt--j-xQrQpp1V2F03WfUT5WeGvHNrI6p4CgvOChMSbAapa0ao6iuhA3Yf5ym_OgeDb7Lh9YD3-fA1QL8eklzC6gPohZHPLsToKhjR7Y
+jwxAuYj_4wkTgKoq_eOLboeZjXB-eZvOxQGY2AmqsQ9Icye0cFuWIaep
+}
+
+AzureEntityColoring(AzureStorage)
+!define AzureStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureStorage, AzureStorage)
+!define AzureStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureStorage, AzureStorage)

@@ -1,0 +1,10 @@
+sprite $AzureDevOps [70x70/16z] {
+xT9NSWCX381XTK7kVzzKkH6ms9Bg_P-P3wG1LdH4ielYndiexeexAA_9BeeRxQ3aO-LA9BieRhHDsJGMideJmx98p3iPRNd49MqFOvym7tSP2ub5hJibgKya
+QWtQF29BXG1ml74gztCJYXLWkUvQGPy1CiM600SmKWJEQGxa2kT0hb02p2aUmlKIvvLcimRZSgNyKULG3gL6qqgzRauv5Fyt2kfM9PAoKOdODoeH2JFX1YNY
+-bufRYhoIk8Q1Qn-wbLio5I1KiV58rKaKx3Eb2d0koYW2n63RlwqeCh3tx008HX5SIBN2i8uVJzY8Cbm1dVpE0CePOme9DNBJQHrjDSikdalss0bMT9CtKxc
+C9MtkyFhoGmcAmPjP848p8OAdTYRhvQ5q0q5uG5w0G
+}
+
+AzureEntityColoring(AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDevOps, AzureDevOps)
+!define AzureDevOps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDevOps, AzureDevOps)
